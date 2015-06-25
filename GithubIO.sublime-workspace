@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"expor",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"expo",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"exp",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"exp	",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"export to html",
+				"Export to HTML: Toggle Annotation Mode"
+			],
+			[
+				"html",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"sublim",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//ATLAS/Web/github/src/css/style.scss",
+		"//ATLAS/Web/github/index.html",
+		"//ATLAS/Web/github/koala-config.json",
+		"//ATLAS/Web/github/assets/css/style.css",
+		"/C/www/sample/koala-config.json",
+		"//ATLAS/Web/github/assets/css/style.css.map",
+		"/C/www/sample/index.html",
+		"/C/www/index.html",
+		"//ATLAS/Web/github/src/css/custom.scss",
+		"//ATLAS/Web/github/src/js/custom.js",
+		"//ATLAS/Web/github/GithubIO.sublime-project",
+		"//ATLAS/Web/github/GithubIO.sublime-workspace",
+		"/C/www/sample/workspace.sublime-project",
+		"/C/www/sample/workspace.sublime-workspace",
+		"//ATLAS/Web/github/_/src/New Text Document.txt",
+		"/C/Users/akritikos/Desktop/samplerdfa.txt",
+		"//ATLAS/Web/github/.gitignore",
+		"/Y/github/index.html",
+		"/C/Users/akritikos/AppData/Local/Temp/scp47283/etc/samba/smb.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp29782/boot/config.txt",
+		"/C/Users/akritikos/AppData/Local/Temp/scp40139/boot/overlays/README",
+		"/C/Users/akritikos/AppData/Local/Temp/scp40588/boot/overlays/i2c-rtc-overlay.dtb",
+		"/C/Users/akritikos/AppData/Local/Temp/scp24591/etc/vimrc",
+		"/C/Users/akritikos/AppData/Local/Temp/scp23743/etc/vimrc",
+		"/C/Users/akritikos/AppData/Local/Temp/scp53643/home/akritikos/.ssh/authorized_keys",
+		"/C/Users/akritikos/AppData/Local/Temp/scp32543/etc/ipsec.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp50123/etc/ipsec.secrets",
+		"/C/Users/akritikos/Downloads/rpc_setup.sh",
+		"/C/Users/akritikos/AppData/Local/Temp/scp34657/boot/overlays/i2c-rtc-overlay.dtb",
+		"/C/Users/akritikos/Desktop/modules.txt",
+		"/F/cmdline.txt",
+		"/F/config.txt",
+		"/C/Users/akritikos/Desktop/uboot-commands",
+		"/C/Users/akritikos/AppData/Local/Temp/Rar$DIa0.398/config.txt",
+		"/F/boot.txt",
+		"/C/Users/akritikos/AppData/Local/Temp/scp35302/etc/pacman.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/Rar$DIa0.980/config.txt",
+		"/F/boot.scr",
+		"/C/Users/akritikos/AppData/Local/Temp/scp56501/boot/mkscr",
+		"/C/Users/akritikos/AppData/Local/Temp/scp55834/mnt/tmp/boot.scr",
+		"/E/cmdline.txt",
+		"/C/Users/akritikos/AppData/Local/Temp/Rar$DIa0.448/config.txt",
+		"/E/INSTRUCTIONS-README.txt",
+		"/E/RECOVERY_FILES_DO_NOT_EDIT",
+		"/C/Users/akritikos/AppData/Local/Temp/scp26602/etc/nginx/sites-enabled/apps",
+		"/C/Users/akritikos/AppData/Local/Temp/scp03060/srv/apps/books/config_default.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp03090/srv/apps/books/config.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp35253/srv/apps/books.ori/config_local.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp50183/srv/apps/books/config_local.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp47402/etc/nginx/sites-enabled/apps",
+		"/C/Users/akritikos/AppData/Local/Temp/scp52770/etc/nginx/sites-enabled/apps",
+		"/C/Users/akritikos/AppData/Local/Temp/scp16718/srv/apps/books/config_default.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp21246/srv/apps/books/base.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp22471/srv/apps/books/checkconfig.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp22044/srv/apps/books/book.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp56505/etc/systemd/system/services.path",
+		"/C/Users/akritikos/AppData/Local/Temp/scp57546/etc/systemd/system/services.service",
+		"/C/Users/akritikos/AppData/Local/Temp/scp43158/etc/systemd/system/unmount.service",
+		"/C/Users/akritikos/AppData/Local/Temp/scp51202/etc/systemd/system/media.path",
+		"/C/Users/akritikos/AppData/Local/Temp/scp53591/etc/systemd/system/services.unit",
+		"/C/Users/akritikos/AppData/Local/Temp/scp40191/etc/systemd/system/headphones.service.d/override.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp40833/etc/systemd/system/couchpotato.service.d/override.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp41321/etc/systemd/system/sonarr.service.d/override.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp45273/etc/systemd/system/htpcmanager.service.d/override.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp44288/etc/systemd/system/mnt-Storage.mount",
+		"/C/Users/akritikos/AppData/Local/Temp/scp35979/etc/systemd/system/mnt-Nemesis-Media.mount",
+		"/C/Users/akritikos/AppData/Local/Temp/scp39873/etc/systemd/system/sabnzbd.service.d/override.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp38307/etc/systemd/system/transmission.service.d/override.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp16912/boot/boot.txt",
+		"/C/Users/akritikos/AppData/Local/Temp/scp22441/boot/mkscr",
+		"/C/Users/akritikos/AppData/Local/Temp/scp17296/etc/mkinitcpio.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp02494/etc/systemd/system/xsp.service.d/override.conf",
+		"/C/Users/akritikos/Desktop/utorrent.txt",
+		"/E/boot.txt",
+		"/C/Users/akritikos/AppData/Local/Temp/Rar$DIa0.426/boot.txt",
+		"/C/Users/akritikos/Desktop/system/etc/preferred-apps/google.xml",
+		"/I/modules.txt",
+		"/C/Users/akritikos/Desktop/modules_live.txt",
+		"/C/Users/akritikos/AppData/Local/Temp/scp22837/srv/apps/books/CHANGELOG",
+		"/F/system/updater-script",
+		"/C/Users/akritikos/AppData/Local/Temp/scp47474/etc/nginx/fastcgi_params",
+		"/C/Users/akritikos/AppData/Local/Temp/scp00394/usr/lib/systemd/system/xsp.service",
+		"/C/Users/akritikos/AppData/Local/Temp/Rar$DIa0.574/install-optional.sh",
+		"/C/Users/akritikos/Desktop/refind.conf",
+		"/C/Users/akritikos/Desktop/readme.txt",
+		"/C/Users/akritikos/Downloads/quotes (1).csv",
+		"/C/Users/akritikos/Downloads/quotes.csv",
+		"/C/Users/akritikos/AppData/Local/Temp/scp28067/srv/apps/books/config_local.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp02858/srv/apps/cops/config.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp28963/etc/nginx/sites-enabled/apps",
+		"/C/Users/akritikos/AppData/Local/Temp/scp01407/srv/apps/cops/feed.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp28174/srv/apps/books/config_default.php",
+		"/C/Users/akritikos/AppData/Local/Temp/scp18334/srv/apps/books/config_default.php",
+		"/D/Android/apps.csv",
+		"/C/Users/AKRITI~1/AppData/Local/Temp/Rar$DRa0.282/efi/boot/refind.conf",
+		"/C/Users/akritikos/Desktop/BIOS/DUMP/BIOS/BIOS1287.BIOS",
+		"/F/autorun.inf",
+		"/H/Documents/My Documents/Flash Drives/autorun.inf",
+		"/F/Shell2.diff",
+		"/D/Torrents/[Underwater] KILL la KILL - 01-24 (TV 720p) [Batch]/READ ME FIRST.txt",
+		"/D/Torrents/[Underwater] KILL la KILL - 01-24 (TV 720p) [Batch]/[Underwater] KILL la KILL - 01 (TV 720p) [patch].xdelta",
+		"/D/p D",
+		"/D/Torrents/[Underwater] KILL la KILL - 01-24 (TV 720p) [Batch]/Run this to patch.bat",
+		"/Z/Series/Desktop.ini",
+		"/Z/Anime/Desktop.ini",
+		"/F/PortableApps/RevoUninstallerProPortable/Тихая распаковка(Silent,Portable).cmd",
+		"/C/Users/akritikos/Desktop/Training.txt",
+		"/C/Software/Programs/Sublime Text 3/Data/Packages/User/GitGutter.sublime-settings",
+		"/D/src/HTPC-Manager/HTPC-Manager.bat",
+		"/C/Software/Programs/Sublime Text 3/Data/Packages/GitGutter/GitGutter.sublime-settings",
+		"/D/src/pschichtel-LyricsReloaded-708d088/LyricsReloaded.suo",
+		"/C/Users/akritikos/AppData/Local/Temp/scp18554/boot/script.fex",
+		"/C/Users/akritikos/AppData/Local/Temp/scp15243/boot/script.bin",
+		"/E/autorun.inf",
+		"/G/backup/Desktop/ArchLinux/Πέτρος/Seagate/Autorun.inf",
+		"/I/sources/$oem$/$$/Setup/Scripts/filetypes.reg",
+		"/F/sources/$oem$/$$/Setup/Scripts/genericsettings.reg",
+		"/C/Users/akritikos/AppData/Local/Temp/scp35923/etc/nginx/proxy-control.conf",
+		"/C/Users/akritikos/AppData/Local/Temp/scp16841/root/bin/otp",
+		"/C/Users/akritikos/Desktop/com.blizzard.bma.AUTH_STORE.xml",
+		"/D/$oem$/$$/Setup/Scripts/sublime.reg",
+		"/D/$oem$/$$/Setup/Scripts/genericsettings-tablet.reg",
+		"/D/$oem$/$$/Setup/Scripts/genericsettings.reg",
+		"/D/$oem$/$$/Setup/Scripts/tablet.reg",
+		"/D/$oem$/$$/Setup/Scripts/OEMInformation.reg",
+		"/D/$oem$/$$/Setup/Scripts/mp3handler.reg",
+		"/D/$oem$/$$/Setup/Scripts/filetypes.reg",
+		"/G/data.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"htpasswd",
+			"cover",
+			"Cover",
+			"cover",
+			"cupsfilter",
+			"calibre",
+			"invalid",
+			"mantano",
+			"gpio",
+			"uart0",
+			"uart0: serial@01c28000",
+			"bt_pwr",
+			"UART",
+			"SUN7i",
+			"SUNXI",
+			"sunxi",
+			"gpio",
+			"sort",
+			"submit",
+			"$COMPUTER_LOCAL_IP[$selectedComputer+1]",
+			"$COMPUTER_LOCAL_IP[$selectedComputer]",
+			"local_ip",
+			"base",
+			"security",
+			"194.219.107.1",
+			"sonarr",
+			"pin",
+			"tab",
+			"portable",
+			"sugote",
+			"/mnt/Storage",
+			"watch",
+			"port",
+			"torrent",
+			"^",
+			"screens",
+			"htpcmanager",
+			"movies",
+			"C:\\\\Program Files\\\\KiTTY\\\\",
+			"anim",
+			"Panel",
+			"D:\\\\Programs\\\\Sublime Text 3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$COMPUTER_LOCAL_IP[$selectedComputer]",
+			"transmission",
+			"C:\\\\Software\\\\Programs\\\\KiTTY\\\\",
+			"C:\\\\Software\\\\Programs\\\\Sublime Text 3"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/MSYS.sublime-build",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

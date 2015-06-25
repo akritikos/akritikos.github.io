@@ -1,0 +1,1 @@
+$(".dropdown-toggle").click(function(){var o=$(this).attr("href");return window.location.href=o,!1});
